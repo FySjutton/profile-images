@@ -1,6 +1,8 @@
 {
-  "name": "Avox",
-  "main": {
-    "default": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf"
-  }
+    "spec": 1,
+    "name": "Avox",
+    "previewText": Testing testing, hda",
+    "main": {
+        "avox-regular": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf"
+    }
 }
