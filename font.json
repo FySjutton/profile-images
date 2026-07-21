@@ -1,8 +1,25 @@
 {
     "spec": 1,
     "name": "Avox",
-    "previewText": "Testing testing, hda",
+    "previewText": "Avox is well suited for general purpose typesetting",
     "main": {
-        "avox-regular": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf"
+        "ABCGintoNord-ExtraBold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-Bold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-BoldItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-ExtraBold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-Medium": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-MediumItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-Normal": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-NormalItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-Semibold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggsans-SemiboldItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-Bold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-ExtraBold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-Medium": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-Normal": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-NormalItalic": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "NotoSans-Semibold": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf",
+        "ggmono-Normal": "https://github.com/FySjutton/profile-images/raw/refs/heads/main/Avox-Regular%20(1).ttf"
     }
 }
